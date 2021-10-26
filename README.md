@@ -1,4 +1,4 @@
-# First node_modules is not found then start :
+# If node_modules is not found then Run
 
 ### `npm install`
 
